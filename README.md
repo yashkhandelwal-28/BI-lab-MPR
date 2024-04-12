@@ -1,3 +1,3 @@
 # BI-lab-MPR
 
-Recruitment prediction
+Recruitment prediction System
